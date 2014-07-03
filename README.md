@@ -1,4 +1,4 @@
-spark
+Spark Example Project
 =====
 
-spark
+This is a simple job written in Java for the Spark cluster computing platform.
